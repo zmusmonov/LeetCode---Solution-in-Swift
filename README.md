@@ -1,1 +1,1 @@
-# LeetCode---Solution-in-Swift
+# LeetCode Solutions in Swift 
